@@ -1,0 +1,20 @@
+  [
+    {
+    "name": "Vintage T-shirt",
+    "description": "Tie-dye Grateful Dead T-shirt",
+    "price": 35,
+    "categories": ["clothing", "vintage"]
+  },
+  {
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling Bluetooth headphones",
+    "price": 120,
+    "categories": ["electronics", "audio", "gifts"]
+  },
+  {
+    "name": "Ceramic Coffee Mug",
+    "description": "Handmade ceramic mug with a unique glaze pattern",
+    "price": 18,
+    "categories": ["kitchen", "handmade", "gifts"]
+  }
+]
